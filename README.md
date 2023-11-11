@@ -39,3 +39,5 @@ python script.py
 ## Contribution
 Feel free to contribute to this project, whether it's by adding new features, improving the model, or fixing bugs, your input is welcome. 
 
+## Results
+loss: 0.1711 - accuracy: 0.9479
