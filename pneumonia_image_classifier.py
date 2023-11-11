@@ -203,7 +203,7 @@ def main():
       new_model.train_model()
 
     elif choice == "2":
-      new_model.eval_model*()
+      new_model.eval_model()
 
     elif choice == "3":
       new_model.save_model()
