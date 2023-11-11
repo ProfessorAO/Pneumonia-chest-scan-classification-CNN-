@@ -1,6 +1,4 @@
-Sure, I can help you create a README for your project. The README will provide an overview of your project, instructions on how to set it up, and some additional information about the model and its functionality.
 
----
 
 # Pneumonia Chest Scan Classification CNN
 
